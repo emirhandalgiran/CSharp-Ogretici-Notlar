@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\bin\Debug\datetime_metotlari.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\bin\Debug\datetime_metotlari.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\bin\Debug\datetime_metotlari.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\obj\Debug\datetime_metotlari.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\obj\Debug\datetime_metotlari.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\obj\Debug\datetime_metotlari.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\obj\Debug\datetime_metotlari.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\obj\Debug\datetime_metotlari.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\obj\Debug\datetime_metotlari.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\34-DateTime Metotları\datetime_metotlari\datetime_metotlari\obj\Debug\datetime_metotlari.pdb
