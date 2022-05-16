@@ -1,0 +1,25 @@
+D:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\bin\Debug\30-Dijital_Saat.exe
+D:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\bin\Debug\30-Dijital_Saat.pdb
+D:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\_30_Dijital_Saat.Form1.resources
+D:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\_30_Dijital_Saat.Properties.Resources.resources
+D:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.csproj.GenerateResource.Cache
+D:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.exe
+D:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.pdb
+E:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.exe
+E:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.pdb
+E:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\bin\Debug\30-Dijital_Saat.exe
+E:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\bin\Debug\30-Dijital_Saat.pdb
+E:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\_30_Dijital_Saat.Form1.resources
+E:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\_30_Dijital_Saat.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\02.NTP UYGULAMALAR 2018\30-Dijital_Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.csproj.GenerateResource.Cache
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\bin\Debug\30-Dijital_Saat.exe.config
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\bin\Debug\30-Dijital_Saat.exe
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\bin\Debug\30-Dijital_Saat.pdb
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.csproj.AssemblyReference.cache
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.csproj.SuggestedBindingRedirects.cache
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\obj\x86\Debug\_30_Dijital_Saat.Form1.resources
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\obj\x86\Debug\_30_Dijital_Saat.Properties.Resources.resources
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.csproj.GenerateResource.cache
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.csproj.CoreCompileInputs.cache
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.exe
+C:\Users\skosu\Desktop\Programlar\38-Dijital Saat\30-Dijital_Saat\obj\x86\Debug\30-Dijital_Saat.pdb
