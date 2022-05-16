@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\bin\Debug\hata_denetimi.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\bin\Debug\hata_denetimi.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\bin\Debug\hata_denetimi.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\obj\Debug\hata_denetimi.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\obj\Debug\hata_denetimi.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\obj\Debug\hata_denetimi.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\obj\Debug\hata_denetimi.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\obj\Debug\hata_denetimi.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\obj\Debug\hata_denetimi.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\32-Hata Denetimi(try-catch-finally)\hata_denetimi\hata_denetimi\obj\Debug\hata_denetimi.pdb
