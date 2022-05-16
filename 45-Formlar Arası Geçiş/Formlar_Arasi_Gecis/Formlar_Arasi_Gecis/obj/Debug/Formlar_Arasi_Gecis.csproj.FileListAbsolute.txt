@@ -1,0 +1,14 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.topla.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.bol.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.carp.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\45-Formlar Arası Geçiş\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.cikar.resources

@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\bin\Debug\class_ile_metotlar.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\bin\Debug\class_ile_metotlar.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\bin\Debug\class_ile_metotlar.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\obj\Debug\class_ile_metotlar.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\obj\Debug\class_ile_metotlar.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\obj\Debug\class_ile_metotlar.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\obj\Debug\class_ile_metotlar.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\obj\Debug\class_ile_metotlar.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\obj\Debug\class_ile_metotlar.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\44-Class ile Metotlar\class_ile_metotlar\class_ile_metotlar\obj\Debug\class_ile_metotlar.pdb
