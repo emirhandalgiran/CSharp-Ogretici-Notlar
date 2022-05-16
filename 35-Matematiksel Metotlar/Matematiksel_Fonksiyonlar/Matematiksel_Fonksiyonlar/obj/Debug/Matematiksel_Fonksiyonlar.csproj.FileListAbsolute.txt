@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\bin\Debug\Matematiksel_Fonksiyonlar.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\bin\Debug\Matematiksel_Fonksiyonlar.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\bin\Debug\Matematiksel_Fonksiyonlar.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\obj\Debug\Matematiksel_Fonksiyonlar.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\obj\Debug\Matematiksel_Fonksiyonlar.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\obj\Debug\Matematiksel_Fonksiyonlar.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\obj\Debug\Matematiksel_Fonksiyonlar.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\obj\Debug\Matematiksel_Fonksiyonlar.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\obj\Debug\Matematiksel_Fonksiyonlar.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\35-Matematiksel Metotlar\Matematiksel_Fonksiyonlar\Matematiksel_Fonksiyonlar\obj\Debug\Matematiksel_Fonksiyonlar.pdb
