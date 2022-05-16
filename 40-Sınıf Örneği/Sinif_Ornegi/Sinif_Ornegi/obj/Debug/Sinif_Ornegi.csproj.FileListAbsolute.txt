@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\bin\Debug\Sinif_Ornegi.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\bin\Debug\Sinif_Ornegi.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\bin\Debug\Sinif_Ornegi.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\obj\Debug\Sinif_Ornegi.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\obj\Debug\Sinif_Ornegi.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\obj\Debug\Sinif_Ornegi.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\obj\Debug\Sinif_Ornegi.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\obj\Debug\Sinif_Ornegi.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\obj\Debug\Sinif_Ornegi.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\40-Sınıf Örneği\Sinif_Ornegi\Sinif_Ornegi\obj\Debug\Sinif_Ornegi.pdb
