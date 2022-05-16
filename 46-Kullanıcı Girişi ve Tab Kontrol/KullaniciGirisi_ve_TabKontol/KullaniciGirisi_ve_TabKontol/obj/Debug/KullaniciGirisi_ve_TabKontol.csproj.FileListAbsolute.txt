@@ -1,0 +1,12 @@
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\bin\Debug\KullaniciGirisi_ve_TabKontol.exe.config
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\bin\Debug\KullaniciGirisi_ve_TabKontol.exe
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\bin\Debug\KullaniciGirisi_ve_TabKontol.pdb
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.csproj.AssemblyReference.cache
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.Form1.resources
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.Properties.Resources.resources
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.csproj.GenerateResource.cache
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.csproj.CoreCompileInputs.cache
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.exe
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.pdb
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.yonlendir.resources
+C:\Users\LAB1\source\repos\KullaniciGirisi_ve_TabKontol\KullaniciGirisi_ve_TabKontol\obj\Debug\KullaniciGirisi_ve_TabKontol.KullaniciPaneli.resources
