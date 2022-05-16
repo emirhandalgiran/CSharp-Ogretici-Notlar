@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerDondurmeyen_Parametreli_Metot", "DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot.csproj", "{B9FF8F80-2D35-409B-9C7A-8A3A290164BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FF8F80-2D35-409B-9C7A-8A3A290164BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FF8F80-2D35-409B-9C7A-8A3A290164BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FF8F80-2D35-409B-9C7A-8A3A290164BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FF8F80-2D35-409B-9C7A-8A3A290164BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2B1482-E8A4-43C6-BF0F-1EBA20861C0C}
+	EndGlobalSection
+EndGlobal

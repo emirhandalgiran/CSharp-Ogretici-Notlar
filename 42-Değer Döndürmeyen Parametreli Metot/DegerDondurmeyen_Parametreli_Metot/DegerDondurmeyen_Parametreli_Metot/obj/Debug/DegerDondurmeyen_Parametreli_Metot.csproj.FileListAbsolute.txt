@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\bin\Debug\DegerDondurmeyen_Parametreli_Metot.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\bin\Debug\DegerDondurmeyen_Parametreli_Metot.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\bin\Debug\DegerDondurmeyen_Parametreli_Metot.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\obj\Debug\DegerDondurmeyen_Parametreli_Metot.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\obj\Debug\DegerDondurmeyen_Parametreli_Metot.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\obj\Debug\DegerDondurmeyen_Parametreli_Metot.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\obj\Debug\DegerDondurmeyen_Parametreli_Metot.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\obj\Debug\DegerDondurmeyen_Parametreli_Metot.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\obj\Debug\DegerDondurmeyen_Parametreli_Metot.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\42-Değer Döndürmeyen Parametreli Metot\DegerDondurmeyen_Parametreli_Metot\DegerDondurmeyen_Parametreli_Metot\obj\Debug\DegerDondurmeyen_Parametreli_Metot.pdb
