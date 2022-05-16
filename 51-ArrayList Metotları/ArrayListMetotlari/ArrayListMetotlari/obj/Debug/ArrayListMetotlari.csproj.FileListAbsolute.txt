@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\bin\Debug\ArrayListMetotlari.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\bin\Debug\ArrayListMetotlari.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\bin\Debug\ArrayListMetotlari.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\obj\Debug\ArrayListMetotlari.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\obj\Debug\ArrayListMetotlari.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\obj\Debug\ArrayListMetotlari.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\obj\Debug\ArrayListMetotlari.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\obj\Debug\ArrayListMetotlari.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\obj\Debug\ArrayListMetotlari.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\51-ArrayList Metotları\ArrayListMetotlari\ArrayListMetotlari\obj\Debug\ArrayListMetotlari.pdb

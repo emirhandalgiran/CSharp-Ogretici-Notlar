@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\bin\Debug\DizidenRastgeleElemanCekme.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\bin\Debug\DizidenRastgeleElemanCekme.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\bin\Debug\DizidenRastgeleElemanCekme.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\obj\Debug\DizidenRastgeleElemanCekme.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\obj\Debug\DizidenRastgeleElemanCekme.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\obj\Debug\DizidenRastgeleElemanCekme.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\obj\Debug\DizidenRastgeleElemanCekme.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\obj\Debug\DizidenRastgeleElemanCekme.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\obj\Debug\DizidenRastgeleElemanCekme.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\52-Diziden Rastgele Eleman Çekme\DizidenRastgeleElemanCekme\DizidenRastgeleElemanCekme\obj\Debug\DizidenRastgeleElemanCekme.pdb
