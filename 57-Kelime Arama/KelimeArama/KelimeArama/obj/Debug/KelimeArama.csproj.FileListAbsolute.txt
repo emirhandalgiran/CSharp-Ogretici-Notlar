@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\bin\Debug\KelimeArama.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\bin\Debug\KelimeArama.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\bin\Debug\KelimeArama.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\obj\Debug\KelimeArama.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\obj\Debug\KelimeArama.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\obj\Debug\KelimeArama.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\obj\Debug\KelimeArama.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\obj\Debug\KelimeArama.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\obj\Debug\KelimeArama.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\57-Kelime Arama\KelimeArama\KelimeArama\obj\Debug\KelimeArama.pdb
