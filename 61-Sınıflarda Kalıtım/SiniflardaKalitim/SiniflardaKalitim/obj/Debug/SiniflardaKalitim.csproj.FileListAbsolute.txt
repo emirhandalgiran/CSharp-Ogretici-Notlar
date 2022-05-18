@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\bin\Debug\SiniflardaKalitim.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\bin\Debug\SiniflardaKalitim.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\bin\Debug\SiniflardaKalitim.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\obj\Debug\SiniflardaKalitim.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\obj\Debug\SiniflardaKalitim.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\obj\Debug\SiniflardaKalitim.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\obj\Debug\SiniflardaKalitim.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\obj\Debug\SiniflardaKalitim.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\obj\Debug\SiniflardaKalitim.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\61-Sınıflarda Kalıtım\SiniflardaKalitim\SiniflardaKalitim\obj\Debug\SiniflardaKalitim.pdb
