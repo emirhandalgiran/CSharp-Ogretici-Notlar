@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\bin\Debug\YapiciveYikiciMetotlar.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\bin\Debug\YapiciveYikiciMetotlar.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\bin\Debug\YapiciveYikiciMetotlar.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\obj\Debug\YapiciveYikiciMetotlar.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\obj\Debug\YapiciveYikiciMetotlar.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\obj\Debug\YapiciveYikiciMetotlar.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\obj\Debug\YapiciveYikiciMetotlar.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\obj\Debug\YapiciveYikiciMetotlar.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\obj\Debug\YapiciveYikiciMetotlar.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\60-Yapıcı ve Yıkıcı Metotlar\YapiciveYikiciMetotlar\YapiciveYikiciMetotlar\obj\Debug\YapiciveYikiciMetotlar.pdb
