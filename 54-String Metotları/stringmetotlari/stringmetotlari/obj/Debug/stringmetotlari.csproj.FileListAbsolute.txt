@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\bin\Debug\stringmetotlari.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\bin\Debug\stringmetotlari.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\bin\Debug\stringmetotlari.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\obj\Debug\stringmetotlari.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\obj\Debug\stringmetotlari.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\obj\Debug\stringmetotlari.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\obj\Debug\stringmetotlari.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\obj\Debug\stringmetotlari.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\obj\Debug\stringmetotlari.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\54-String Metotları\stringmetotlari\stringmetotlari\obj\Debug\stringmetotlari.pdb
