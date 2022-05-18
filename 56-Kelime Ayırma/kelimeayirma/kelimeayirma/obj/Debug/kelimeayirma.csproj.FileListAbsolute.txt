@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\bin\Debug\kelimeayirma.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\bin\Debug\kelimeayirma.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\bin\Debug\kelimeayirma.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\obj\Debug\kelimeayirma.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\obj\Debug\kelimeayirma.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\obj\Debug\kelimeayirma.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\obj\Debug\kelimeayirma.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\obj\Debug\kelimeayirma.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\obj\Debug\kelimeayirma.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\56-Kelime Ayırma\kelimeayirma\kelimeayirma\obj\Debug\kelimeayirma.pdb
