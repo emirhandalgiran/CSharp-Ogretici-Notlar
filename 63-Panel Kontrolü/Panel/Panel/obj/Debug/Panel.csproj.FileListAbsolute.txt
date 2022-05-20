@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\bin\Debug\Panel.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\bin\Debug\Panel.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\bin\Debug\Panel.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\obj\Debug\Panel.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\obj\Debug\Panel.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\obj\Debug\Panel.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\obj\Debug\Panel.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\obj\Debug\Panel.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\obj\Debug\Panel.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\63-Panel Kontrolü\Panel\Panel\obj\Debug\Panel.pdb
