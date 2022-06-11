@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\bin\Debug\Dialogresult_ile_form_kapatma.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\bin\Debug\Dialogresult_ile_form_kapatma.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\bin\Debug\Dialogresult_ile_form_kapatma.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\obj\Debug\Dialogresult_ile_form_kapatma.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\obj\Debug\Dialogresult_ile_form_kapatma.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\obj\Debug\Dialogresult_ile_form_kapatma.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\obj\Debug\Dialogresult_ile_form_kapatma.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\obj\Debug\Dialogresult_ile_form_kapatma.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\obj\Debug\Dialogresult_ile_form_kapatma.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\68-Dialogresult İle Form Kapatma\Dialogresult_ile_form_kapatma\Dialogresult_ile_form_kapatma\obj\Debug\Dialogresult_ile_form_kapatma.pdb
