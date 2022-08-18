@@ -7,7 +7,7 @@ namespace OpenFileDialogg
         ///Gerekli tasarımcı değişkeni.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-
+        ///
         /// <summary>
         ///Kullanılan tüm kaynakları temizleyin.
         /// </summary>
