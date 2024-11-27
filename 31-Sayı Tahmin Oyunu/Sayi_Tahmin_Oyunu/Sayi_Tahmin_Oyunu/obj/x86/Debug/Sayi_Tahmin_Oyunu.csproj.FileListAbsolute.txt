@@ -1,0 +1,7 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\31-Sayı Tahmin Oyunu\Sayi_Tahmin_Oyunu\Sayi_Tahmin_Oyunu\bin\Debug\Sayi_Tahmin_Oyunu.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\31-Sayı Tahmin Oyunu\Sayi_Tahmin_Oyunu\Sayi_Tahmin_Oyunu\bin\Debug\Sayi_Tahmin_Oyunu.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\31-Sayı Tahmin Oyunu\Sayi_Tahmin_Oyunu\Sayi_Tahmin_Oyunu\obj\x86\Debug\Sayi_Tahmin_Oyunu.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\31-Sayı Tahmin Oyunu\Sayi_Tahmin_Oyunu\Sayi_Tahmin_Oyunu\obj\x86\Debug\Sayi_Tahmin_Oyunu.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\31-Sayı Tahmin Oyunu\Sayi_Tahmin_Oyunu\Sayi_Tahmin_Oyunu\obj\x86\Debug\Sayi_Tahmin_Oyunu.csproj.GenerateResource.Cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\31-Sayı Tahmin Oyunu\Sayi_Tahmin_Oyunu\Sayi_Tahmin_Oyunu\obj\x86\Debug\Sayi_Tahmin_Oyunu.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\31-Sayı Tahmin Oyunu\Sayi_Tahmin_Oyunu\Sayi_Tahmin_Oyunu\obj\x86\Debug\Sayi_Tahmin_Oyunu.pdb
