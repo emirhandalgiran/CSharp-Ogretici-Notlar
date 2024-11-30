@@ -1,0 +1,7 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\30-Do While örneği\do_while_ornegi\do_while_ornegi\bin\Debug\do_while_ornegi.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\30-Do While örneği\do_while_ornegi\do_while_ornegi\bin\Debug\do_while_ornegi.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\30-Do While örneği\do_while_ornegi\do_while_ornegi\obj\x86\Debug\do_while_ornegi.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\30-Do While örneği\do_while_ornegi\do_while_ornegi\obj\x86\Debug\do_while_ornegi.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\30-Do While örneği\do_while_ornegi\do_while_ornegi\obj\x86\Debug\do_while_ornegi.csproj.GenerateResource.Cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\30-Do While örneği\do_while_ornegi\do_while_ornegi\obj\x86\Debug\do_while_ornegi.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\30-Do While örneği\do_while_ornegi\do_while_ornegi\obj\x86\Debug\do_while_ornegi.pdb
