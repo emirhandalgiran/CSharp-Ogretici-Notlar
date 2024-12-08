@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kombinasyon_Hesaplama", "Kombinasyon_Hesaplama\Kombinasyon_Hesaplama.csproj", "{D5FF447B-4C91-40E6-A1B0-4ACBB2CA4066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FF447B-4C91-40E6-A1B0-4ACBB2CA4066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FF447B-4C91-40E6-A1B0-4ACBB2CA4066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FF447B-4C91-40E6-A1B0-4ACBB2CA4066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FF447B-4C91-40E6-A1B0-4ACBB2CA4066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468FEEDA-347F-4F93-89EC-0B59CAC00EAE}
+	EndGlobalSection
+EndGlobal

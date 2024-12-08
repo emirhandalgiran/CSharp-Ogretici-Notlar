@@ -1,0 +1,10 @@
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\bin\Debug\Kombinasyon_Hesaplama.exe.config
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\bin\Debug\Kombinasyon_Hesaplama.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\bin\Debug\Kombinasyon_Hesaplama.pdb
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\obj\Debug\Kombinasyon_Hesaplama.csproj.AssemblyReference.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\obj\Debug\Kombinasyon_Hesaplama.Form1.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\obj\Debug\Kombinasyon_Hesaplama.Properties.Resources.resources
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\obj\Debug\Kombinasyon_Hesaplama.csproj.GenerateResource.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\obj\Debug\Kombinasyon_Hesaplama.csproj.CoreCompileInputs.cache
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\obj\Debug\Kombinasyon_Hesaplama.exe
+E:\Dursun DİKİLİTAŞ\06.NTP Uygulamaları 2021\29-Kombinasyon Hesaplama\Kombinasyon_Hesaplama\Kombinasyon_Hesaplama\obj\Debug\Kombinasyon_Hesaplama.pdb
